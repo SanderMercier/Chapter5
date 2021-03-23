@@ -1,8 +1,9 @@
 @charset "UTF-8";
-* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 
 body {
-	background-image: url("../images/wallpaper-patter.jpg")
+	background-image: url("../images/wallpaper-patter.jpg");
+	margin: 0; padding: 0; border: 0; font-size: 100%;
 }
 
 .mybutton {
